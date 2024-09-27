@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Il Mio Sito con Annunci</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .ads {
+            background: #e7e7e7;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Benvenuto nel Mio Sito</h1>
+    </header>
+    <div class="content">
+        <h2>Contenuti Interessanti</h2>
+        <p>Qui puoi trovare informazioni utili e interessanti.</p>
+
+        <div class="ads">
+            <h3>Annuncio Pubblicitario</h3>
+            <p>Inserisci qui il tuo codice pubblicitario.</p>
+            <!-- Inserisci qui il codice dell'annuncio -->
+        </div>
+    </div>
+</body>
+</html>
